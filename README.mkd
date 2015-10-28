@@ -100,4 +100,5 @@ graph TD;
     ```
     previmでhtml生成時間差waitのdelayを設定するのが重要 (上記例 5000[ms])
 
+## 数式 
 数式に対応させる
